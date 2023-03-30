@@ -75,8 +75,4 @@ double crossProd(double vecOne[], double vecTwo[]){
 
 }
 
-// vec1: -1 2 5 
-// vec2: 4 0 -3
-
-
 #endif
