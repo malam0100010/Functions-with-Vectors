@@ -42,7 +42,7 @@ double magnitude(double tBtMatrix[]){
         mag += tBtMatrix[i] * tBtMatrix[i];
     }
     mag = sqrt(mag);
-    printf("The magnitude of you vector is: %lf", mag);
+    printf("The magnitude of you vector is: %lf\n", mag);
 
 }
 
