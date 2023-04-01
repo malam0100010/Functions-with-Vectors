@@ -8,7 +8,7 @@ double scalarProd(double vectorOne[], double vectorTwo[], double scalarOne, doub
 
 double dotProduct(double vectorOne[], double vectorTwo[]);
 
-double magnitude(double tBtMatrix[]);
+double magnitude(double 3B3Matrix[]);
 
 double projVec(double projFromV[], double projOntoU[]);
 
