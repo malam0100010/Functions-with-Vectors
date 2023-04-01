@@ -36,7 +36,7 @@ double dotProduct(double vectorOne[], double vectorTwo[]){
 }
 
 //magnitude
-double magnitude(double tBtMatrix[]){
+double magnitude(double 3B3Matrix[]){
     double mag = 0.0;
     for(int i = 0; i < 3; ++i){
         mag += tBtMatrix[i] * tBtMatrix[i];
