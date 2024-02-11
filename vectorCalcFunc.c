@@ -36,10 +36,10 @@ double dotProduct(double vectorOne[], double vectorTwo[]){
 }
 
 //magnitude
-double magnitude(double 3B3Matrix[]){
+double magnitude(double threeByThree[]){
     double mag = 0.0;
     for(int i = 0; i < 3; ++i){
-        mag += 3B3Matrix[i] * 3B3Matrix[i];
+        mag += threeByThree[i] * threeByThree[i];
     }
     mag = sqrt(mag);
     printf("The magnitude of you vector is: %lf\n", mag);
